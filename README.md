@@ -34,9 +34,11 @@
 
 Распределение структур по геномам
 
-<img width="586" alt="image" src="https://github.com/user-attachments/assets/c21e2f70-a367-4395-aac0-825b84fe8df4" />
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/d2f24e36-4868-4060-890d-e2bc74008e4c" />
 
-<img width="804" alt="image" src="https://github.com/user-attachments/assets/e155c9f9-87d2-4c43-9fe9-dcabb9674354" />
+<img width="811" alt="image" src="https://github.com/user-attachments/assets/842a179a-28d7-48fa-8356-b0f5bacef0ef" />
+
+
 
 ## Краткие выводы
 
