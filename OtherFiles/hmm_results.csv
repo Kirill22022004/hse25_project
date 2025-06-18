@@ -1,0 +1,511 @@
+,checked domain,accession,domain description,protein,protein description,protein coordinates,e-value
+0,RIX1,PF08167.15,rRNA processing/ribosome biogenesis,XP_022821082.1,importin-5 [Spodoptera litura],+10574279:10582761,0.00011
+1,TAF,PF02969.20,TATA box binding protein associated factor (TAF),XP_022823284.1,transcription initiation factor TFIID subunit 6 isoform X2 [Spodoptera litura],+8479026:8486681,1e-27
+2,KH_1,PF00013.32,KH domain,XP_022819366.1,vigilin [Spodoptera litura],-8186421:8192706,6.1e-186
+3,APOBEC_C,PF05240.17,APOBEC-like C-terminal domain,,,,
+4,Ada3,PF10198.12,Histone acetyltransferases subunit 3,XP_022823333.1,transcriptional adapter 3 [Spodoptera litura],-7380236:7381624,3.2e-23
+5,SF3b1,PF08920.13,Splicing factor 3B subunit 1,XP_022820271.1,splicing factor 3B subunit 1 [Spodoptera litura],+8195246:8202579,9.3e-45
+6,CHDII_SANT-like,PF06461.14,"CHD subfamily II, SANT-like domain",XP_022820130.1,chromodomain-helicase-DNA-binding protein Mi-2 homolog isoform X3 [Spodoptera litura],+3214100:3229730,9.4e-59
+7,Nup96,PF12110.11,Nuclear protein 96,XP_022835126.1,"nuclear pore complex protein Nup98-Nup96-like, partial [Spodoptera litura]",+29631:73411,3.6e-53
+8,JmjN,PF02375.20,jmjN domain,XP_022837084.1,lysine-specific demethylase lid [Spodoptera litura],-10074875:10102734,5.2e-16
+9,zf-C2HC,PF01530.21,"Zinc finger, C2HC type",XP_022819434.1,myelin transcription factor 1 isoform X6 [Spodoptera litura],+3822657:3849538,1.8e-82
+10,Mad3_BUB1_I,PF08311.15,Mad3/BUB1 homology region 1,XP_022825145.1,mitotic checkpoint serine/threonine-protein kinase BUB1 beta-like isoform X2 [Spodoptera litura],+6085724:6097064,1.4e-39
+11,E2F_TDP,PF02319.23,E2F/DP family winged-helix DNA-binding domain,XP_022825396.1,transcription factor E2F7-like [Spodoptera litura],+9223195:9224367,1.3e-34
+12,Wtap,PF17098.8,WTAP/Mum2p family,XP_022822668.1,pre-mRNA-splicing regulator female-lethal(2)D-like [Spodoptera litura],+5052547:5056254,7.3e-57
+13,C2,PF00168.33,C2 domain,XP_022833230.1,otoferlin-like [Spodoptera litura],-15329431:15504516,5.8e-71
+14,PRMT5,PF05185.19,PRMT5 arginine-N-methyltransferase,XP_022823318.1,protein arginine N-methyltransferase 5 [Spodoptera litura],-5535459:5538647,2.3e-60
+15,USP7_ICP0_bdg,PF12436.11,ICP0-binding domain of Ubiquitin-specific protease 7,XP_022831286.1,ubiquitin carboxyl-terminal hydrolase 7-like isoform X10 [Spodoptera litura],+9046793:9062341,2.2e-76
+16,TUDOR,PF00567.27,Tudor domain,XP_022830157.1,maternal protein tudor-like isoform X2 [Spodoptera litura],-3019486:3037316,1.7e-179
+17,AT_hook,PF02178.22,AT hook motif,XP_022827366.1,zinc finger protein 79-like isoform X6 [Spodoptera litura],-3960786:3968845,4.8e-05
+18,HSP70,PF00012.23,Hsp70 protein,XP_022818855.1,heat shock 70 kDa protein cognate 5 [Spodoptera litura],-4291304:4312357,3.9e-269
+19,SAM_1,PF00536.33,SAM domain (Sterile alpha motif),XP_022813857.1,kazrin isoform X6 [Spodoptera litura],+5051683:5075193,1.3e-29
+20,TAF4,PF05236.17,Transcription initiation factor TFIID component TAF4 family,XP_022832432.1,transcription initiation factor TFIID subunit 4 isoform X7 [Spodoptera litura],-18473045:18488580,5.3e-68
+21,E_Pc_C,PF06752.15,Enhancer of Polycomb C-terminus,,,,
+22,ZZ,PF00569.20,"Zinc finger, ZZ type",XP_022815795.1,"dystrophin-like, partial [Spodoptera litura]",-11860590:11962716,3e-17
+23,WWE,PF02825.23,WWE domain,XP_022830364.1,E3 ubiquitin-protein ligase rnf146 isoform X2 [Spodoptera litura],+7153818:7158340,2.8e-16
+24,RRM_8,PF11835.11,RRM-like domain,XP_022815901.1,polypyrimidine tract-binding protein 1 isoform X1 [Spodoptera litura],-4895622:4941139,6.4e-15
+25,hEGF,PF12661.10,Human growth factor-like EGF,XP_022819207.1,neurogenic locus Notch protein isoform X4 [Spodoptera litura],-926918:1075946,1e-145
+26,zf-HIT,PF04438.19,HIT zinc finger,XP_022822976.1,zinc finger HIT domain-containing protein 1 [Spodoptera litura],+2592145:2593326,3.5e-10
+27,dCMP_cyt_deam_1,PF00383.26,Cytidine and deoxycytidylate deaminase zinc-binding region,XP_022823403.1,deoxycytidylate deaminase [Spodoptera litura],-6576111:6583401,2.4e-28
+28,SAP18,PF06487.15,Sin3 associated polypeptide p18 (SAP18),XP_022828129.1,histone deacetylase complex subunit SAP18 [Spodoptera litura],+3729012:3729706,8.8e-40
+29,PK_C,PF02887.19,"Pyruvate kinase, alpha/beta domain",XP_022825489.1,LOW QUALITY PROTEIN: uncharacterized protein LOC111355690 [Spodoptera litura],-8554011:8577795,1.8e-38
+30,LRR_8,PF13855.9,Leucine rich repeat,XP_022825399.1,chaoptin [Spodoptera litura],-6266748:6271519,3.6e-146
+31,PAS,PF00989.28,PAS fold,XP_022817531.1,hypoxia-inducible factor 1-alpha-like isoform X5 [Spodoptera litura],-4743238:4841468,3.8e-20
+32,Noc2,PF03715.16,Noc2p family,XP_022820405.1,nucleolar complex protein 2 homolog [Spodoptera litura],+9518188:9521031,2.8e-113
+33,SWIB,PF02201.21,SWIB/MDM2 domain,XP_022827464.1,upstream activation factor subunit spp27 isoform X2 [Spodoptera litura],-729912:735944,1.3e-24
+34,HMG_box_2,PF09011.13,HMG-box domain,XP_022828914.1,putative mediator of RNA polymerase II transcription subunit 26 [Spodoptera litura],-10801228:10817928,3.2e-32
+35,FTO_NTD,PF12933.10,FTO catalytic domain,,,,
+36,Abhydrolase_5,PF12695.10,Alpha/beta hydrolase family,XP_022818761.1,lipase 1-like [Spodoptera litura],+8726960:8728228,0.0039
+37,DUF3591,PF12157.11,Protein of unknown function (DUF3591),XP_022830704.1,transcription initiation factor TFIID subunit 1 isoform X6 [Spodoptera litura],-6841980:6863480,7e-164
+38,DEAD,PF00270.32,DEAD/DEAH box helicase,XP_022826389.1,probable ATP-dependent RNA helicase pitchoune [Spodoptera litura],-7132985:7146666,2.4e-91
+39,BTB,PF00651.34,BTB/POZ domain,XP_022832046.1,leucine-zipper-like transcriptional regulator 1 [Spodoptera litura],+2318272:2331052,8.5e-36
+40,ASF1_hist_chap,PF04729.16,ASF1 like histone chaperone,XP_022833318.1,histone chaperone asf1 [Spodoptera litura],-2536961:2537611,1.6e-70
+41,IKI3,PF04762.15,IKI3 family,XP_022824486.1,putative elongator complex protein 1 [Spodoptera litura],-7066148:7074530,5e-250
+42,Nucleic_acid_bd,PF13820.9,Putative nucleic acid-binding region,XP_022818643.1,"uncharacterized protein LOC111351105, partial [Spodoptera litura]",+7347906:7356473,2e-24
+43,BACK,PF07707.18,BTB And C-terminal Kelch,XP_022820736.1,kelch-like protein diablo isoform X3 [Spodoptera litura],-735117:740295,2.4e-38
+44,EXOSC1,PF10447.12,Exosome component EXOSC1/CSL4,XP_022827706.1,exosome complex component CSL4 [Spodoptera litura],-3816962:3820220,4.8e-11
+45,UME,PF08064.16,UME (NUC010) domain,XP_022831075.1,serine/threonine-protein kinase ATR-like [Spodoptera litura],-5706417:5725196,2.8e-15
+46,MBD_C,PF14048.9,C-terminal domain of methyl-CpG binding protein 2 and 3,XP_022824724.1,methyl-CpG-binding domain protein 2 isoform X2 [Spodoptera litura],-7726743:7729683,1.4e-31
+47,Methyltransf_PK,PF05891.15,AdoMet dependent proline di-methyltransferase,XP_022820699.1,alpha N-terminal protein methyltransferase 1-like [Spodoptera litura],-6099165:6099941,1e-77
+48,zf-RING_5,PF14634.9,zinc-RING finger domain,XP_022821834.1,E3 ubiquitin-protein ligase RNF4-like [Spodoptera litura],-8836738:8839894,9.1e-10
+49,WHIM1,PF15612.9,"WSTF, HB1, Itc1p, MBD9 motif 1",XP_022819305.1,nucleosome-remodeling factor subunit NURF301 isoform X2 [Spodoptera litura],-7614659:7630524,4.2e-06
+50,BPL_LplA_LipB,PF03099.22,Biotin/lipoate A/B protein ligase family,XP_022815585.1,biotin--protein ligase isoform X2 [Spodoptera litura],-6393844:6404807,1.2e-19
+51,DOT1,PF08123.16,Histone methylation protein DOT1,XP_022822419.1,"histone-lysine N-methyltransferase, H3 lysine-79 specific isoform X3 [Spodoptera litura]",-6098570:6120736,6.3e-79
+52,zf-H2C2_2,PF13465.9,Zinc-finger double domain,XP_022830547.1,zinc finger protein 271-like isoform X6 [Spodoptera litura],+4399754:4411511,2.1e-113
+53,Tower,PF09121.13,Tower,,,,
+54,SHNi-TPR,PF10516.12,SHNi-TPR,XP_022830895.1,histone-binding protein N1/N2 [Spodoptera litura],-3807436:3811901,5.2e-13
+55,VIR_N,PF15912.8,"Virilizer, N-terminal",XP_022830292.1,protein virilizer [Spodoptera litura],+211452:219829,1.9e-88
+56,TFIID_NTD2,PF04494.18,"WD40 associated region in TFIID subunit, NTD2 domain",XP_022833928.1,transcription initiation factor TFIID subunit 5 [Spodoptera litura],-122639:126425,2.7e-41
+57,SAGA-Tad1,PF12767.10,"Transcriptional regulator of RNA polII, SAGA, subunit",XP_022829107.1,transcriptional adapter 1-like [Spodoptera litura],+4828629:4830020,5e-21
+58,Yippee-Mis18,PF03226.17,"Yippee zinc-binding/DNA-binding /Mis18, centromere assembly",XP_022829218.1,protein yippee-like 5 [Spodoptera litura],+10867111:10868294,1.1e-13
+59,RSB_motif,PF16294.8,RNSP1-SAP18 binding (RSB) motif,XP_022820599.1,apoptotic chromatin condensation inducer in the nucleus-like [Spodoptera litura],-4086060:4111775,1.2e-27
+60,Eaf7,PF07904.16,Chromatin modification-related protein EAF7,XP_022818712.1,MRG/MORF4L-binding protein isoform X2 [Spodoptera litura],+1825801:1828002,2.3e-16
+61,Qua1,PF16274.8,Qua1 domain,XP_022818256.1,"KH domain-containing, RNA-binding, signal transduction-associated protein 2-like isoform X3 [Spodopte",-7653755:7659795,8.4e-05
+62,Chromo_shadow,PF01393.22,Chromo shadow domain,XP_022831902.1,chromobox protein homolog 1-like [Spodoptera litura],-8296004:8298132,4.9e-30
+63,RMI1_N,PF08585.15,RecQ mediated genome instability protein,XP_022823291.1,recQ-mediated genome instability protein 1-like [Spodoptera litura],+13360225:13365736,1.9e-46
+64,LRR_9,PF14580.9,Leucine-rich repeat,XP_022816703.1,U2 small nuclear ribonucleoprotein A' [Spodoptera litura],-7159726:7161820,1.8e-90
+65,HA2,PF04408.26,Helicase associated domain (HA2),XP_022818999.1,putative pre-mRNA-splicing factor ATP-dependent RNA helicase PRP1 isoform X1 [Spodoptera litura],-6869748:6884980,2.8e-25
+66,SCA7,PF08313.15,"SCA7, zinc-binding domain",XP_022832016.1,ataxin-7-like protein 1 [Spodoptera litura],+6315060:6317195,2.7e-26
+67,TPR_11,PF13414.9,TPR repeat,XP_022827761.1,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit isoform X1 [Spodopte,+5413375:5426881,2.1e-88
+68,Atrophin-1,PF03154.18,Atrophin-1 family,XP_022837762.1,arginine-glutamic acid dipeptide repeats protein-like [Spodoptera litura],-2262621:2268107,7.1e-31
+69,SnAC,PF14619.9,"Snf2-ATP coupling, chromatin remodelling complex",XP_022824228.1,ATP-dependent helicase brm [Spodoptera litura],-4688646:4699603,3.4e-15
+70,PPP4R2,PF09184.14,PPP4R2,XP_022826496.1,serine/threonine-protein phosphatase 4 regulatory subunit 2-like [Spodoptera litura],+8203794:8205260,2.9e-52
+71,PAD,PF03068.18,Protein-arginine deiminase (PAD),,,,
+72,NOPS,PF08075.14,NOPS (NUC059) domain,XP_022814884.1,hrp65 protein-like [Spodoptera litura],+5690270:5695690,1.3e-23
+73,Methyltransf_11,PF08241.15,Methyltransferase domain,XP_022834190.1,methyltransferase-like protein 13 [Spodoptera litura],-62425:74079,1.7e-19
+74,PARG_cat,PF05028.17,Poly (ADP-ribose) glycohydrolase (PARG),XP_022814925.1,poly(ADP-ribose) glycohydrolase isoform X2 [Spodoptera litura],+1536620:1547572,1.5e-126
+75,HR1,PF02185.19,Hr1 repeat,XP_022830626.1,serine/threonine-protein kinase N [Spodoptera litura],-5218737:5222339,1.6e-38
+76,Methyltransf_31,PF13847.9,Methyltransferase domain,XP_022834190.1,methyltransferase-like protein 13 [Spodoptera litura],-62425:74079,1.7e-17
+77,DUF3544,PF12064.11,Protein kinase C-binding protein 1,,,,
+78,WD40,PF00400.35,"WD domain, G-beta repeat",XP_022837849.1,lissencephaly-1 homolog [Spodoptera litura],-3947828:3967527,2.1e-63
+79,Sin3_corepress,PF08295.15,Sin3 family co-repressor,XP_022816807.1,paired amphipathic helix protein Sin3b [Spodoptera litura],-1167277:1203498,9.3e-39
+80,LEDGF,PF11467.11,Lens epithelium-derived growth factor (LEDGF),XP_022817055.1,PC4 and SFRS1-interacting protein [Spodoptera litura],-5486369:5507001,1.2e-37
+81,RNase_PH_C,PF03725.18,"3' exoribonuclease family, domain 2",XP_022818079.1,"polyribonucleotide nucleotidyltransferase 1, mitochondrial [Spodoptera litura]",-12478473:12491512,1.3e-19
+82,AMPKBI,PF04739.18,"5'-AMP-activated protein kinase beta subunit, interaction domain",XP_022836622.1,5'-AMP-activated protein kinase subunit beta-1 isoform X2 [Spodoptera litura],-1977:3266,4.7e-26
+83,ARID,PF01388.24,ARID/BRIGHT DNA binding domain,XP_022817965.1,AT-rich interactive domain-containing protein 4A-like [Spodoptera litura],+7879468:7895966,3.8e-24
+84,PAXIP1_C,PF15364.9,PAXIP1-associated-protein-1 C term PTIP binding protein,XP_022828068.1,PAXIP1-associated glutamate-rich protein 1A [Spodoptera litura],-1345383:1345841,3.5e-21
+85,SPT16,PF08644.14,FACT complex subunit (SPT16/CDC68),XP_022819729.1,FACT complex subunit spt16 isoform X2 [Spodoptera litura],+2563950:2573412,1.9e-58
+86,Kelch_1,PF01344.28,Kelch motif,XP_022820735.1,kelch-like protein diablo isoform X2 [Spodoptera litura],-733533:739881,5.5e-93
+87,Pkinase_C,PF00433.27,Protein kinase C terminal domain,XP_022816636.1,serine/threonine-protein kinase CST20 isoform X1 [Spodoptera litura],-4098630:4120536,1.4e-11
+88,Acetyltransf_1,PF00583.28,Acetyltransferase (GNAT) family,XP_022826697.1,N-alpha-acetyltransferase 30-like [Spodoptera litura],-6255018:6256036,2.1e-18
+89,WGR,PF05406.18,WGR domain,XP_022816438.1,poly [ADP-ribose] polymerase-like isoform X2 [Spodoptera litura],-5620609:5632830,1.8e-23
+90,BEN,PF10523.12,BEN domain,XP_022823079.1,early boundary activity protein 1-like [Spodoptera litura],+3020466:3023973,1.4e-16
+91,Methyltr_RsmB-F,PF01189.20,16S rRNA methyltransferase RsmB/F,XP_022819756.1,25S rRNA (cytosine-C(5))-methyltransferase nop2 [Spodoptera litura],+9723836:9727879,3.3e-74
+92,SH2_2,PF14633.9,SH2 domain,XP_022837855.1,transcription elongation factor SPT6 [Spodoptera litura],-3161057:3177001,2.2e-83
+93,KIX,PF02172.19,KIX domain,XP_022829259.1,LOW QUALITY PROTEIN: CREB-binding protein-like [Spodoptera litura],+2709055:2729162,8.5e-40
+94,PAPA-1,PF04795.15,PAPA-1-like conserved region,XP_022819712.1,INO80 complex subunit B [Spodoptera litura],-9575616:9576727,0.00022
+95,OB_NTP_bind,PF07717.19,Oligonucleotide/oligosaccharide-binding (OB)-fold,XP_022819323.1,ATP-dependent RNA helicase DHX8 [Spodoptera litura],-73226:79990,1.4e-25
+96,FAT,PF02259.26,FAT domain,XP_022822531.1,serine/threonine-protein kinase mTOR [Spodoptera litura],-3747420:3756246,1.1e-105
+97,zf-MYND,PF01753.21,MYND finger,XP_022818239.1,zinc finger MYND domain-containing protein 10 [Spodoptera litura],-4630509:4634771,2.8e-10
+98,TPR_8,PF13181.9,Tetratricopeptide repeat,XP_022827761.1,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit isoform X1 [Spodopte,+5413375:5426881,9.3e-61
+99,CAF1-p150_C2,PF15539.9,"CAF1 complex subunit p150, region binding to CAF1-p60 at C-term",,,,
+100,CAF1-p150_N,PF15557.9,"CAF1 complex subunit p150, region binding to PCNA",,,,
+101,zf_Hakai,PF18408.4,C2H2 Hakai zinc finger domain,XP_022816054.1,E3 ubiquitin-protein ligase Hakai isoform X3 [Spodoptera litura],+2403669:2408011,1.6e-18
+102,ASXH,PF13919.9,Asx homology domain,XP_022820650.1,putative Polycomb group protein ASXL3 [Spodoptera litura],-4540036:4544486,9.6e-41
+103,G-patch,PF01585.26,G-patch domain,XP_022837284.1,RNA-binding protein 5-A-like [Spodoptera litura],-1232093:1234291,8.2e-17
+104,Tudor-knot,PF11717.11,RNA binding activity-knot of a chromodomain,XP_022830781.1,histone acetyltransferase KAT8-like [Spodoptera litura],-4186174:4187502,4e-20
+105,Zfx_Zfy_act,PF04704.16,Zfx / Zfy transcription activation region,,,,
+106,CpG_bind_C,PF12269.11,CpG binding protein C-terminal domain,XP_022817833.1,CXXC-type zinc finger protein 1-like [Spodoptera litura],-5246792:5254720,9.9e-106
+107,SNF5,PF04855.15,SNF5 / SMARCB1 / INI1,XP_022831559.1,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1-A isofo,+9607041:9611527,1.3e-55
+108,Nucleoplasmin,PF03066.18,Nucleoplasmin/nucleophosmin domain,XP_022827376.1,nucleoplasmin-like protein isoform X2 [Spodoptera litura],+11034641:11037480,1.4e-34
+109,UBM,PF14377.9,Ubiquitin binding region,,,,
+110,Cdc6_C,PF09079.14,"CDC6, C terminal winged helix domain",XP_022820601.1,polycomb group protein Psc-like [Spodoptera litura],+5669542:5678705,5.2e-11
+111,MORN,PF02493.23,MORN repeat,XP_022820645.1,junctophilin-1 isoform X1 [Spodoptera litura],-7211949:7235120,1e-37
+112,ubiquitin,PF00240.26,Ubiquitin family,XP_022824593.1,polyubiquitin-C-like [Spodoptera litura],+7697831:7700344,0
+113,Homeodomain,PF00046.32,Homeodomain,XP_022830041.1,zinc finger homeobox protein 3 isoform X2 [Spodoptera litura],-5836109:5876107,1.6e-64
+114,Cullin,PF00888.25,Cullin family,XP_022833919.1,cullin-3 [Spodoptera litura],+492482:498875,4.2e-226
+115,ECH_1,PF00378.23,Enoyl-CoA hydratase/isomerase,XP_022830659.1,"probable enoyl-CoA hydratase, mitochondrial [Spodoptera litura]",+12263432:12268184,4.3e-87
+116,BRCT,PF00533.29,BRCA1 C Terminus (BRCT) domain,XP_022831508.1,PAX-interacting protein 1-like isoform X2 [Spodoptera litura],+3756672:3775987,5.3e-43
+117,HATPase_c,PF02518.29,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",XP_022836313.1,uncharacterized protein LOC111363695 [Spodoptera litura],+1957:4240,4.4e-24
+118,Prp31_C,PF09785.12,Prp31 C terminal domain,XP_022819945.1,U4/U6 small nuclear ribonucleoprotein Prp31 [Spodoptera litura],-3703777:3722181,9.8e-45
+119,Ipi1_N,PF12333.11,Rix1 complex component involved in 60S ribosome maturation,XP_022828353.1,testis-expressed protein 10 [Spodoptera litura],-8662823:8665040,3.3e-22
+120,ECR1_N,PF14382.9,Exosome complex exonuclease RRP4 N-terminal region,XP_022835300.1,exosome complex component RRP4 [Spodoptera litura],+81:2052,1.4e-12
+121,PAD_N,PF08526.13,Protein-arginine deiminase (PAD) N-terminal domain,,,,
+122,zf-HC5HC2H_2,PF13832.9,PHD-zinc-finger like domain,XP_022831612.1,bromodomain-containing protein 1 [Spodoptera litura],+8908085:8924712,5.7e-36
+123,Myosin_TH1,PF06017.16,"Unconventional myosin tail, actin- and lipid-binding",XP_022838005.1,myosin-IA isoform X2 [Spodoptera litura],-12529837:12568136,5e-30
+124,ELP6,PF09807.12,Elongation complex protein 6,XP_022834853.1,uncharacterized protein LOC111362408 [Spodoptera litura],-77934:78671,2.4e-18
+125,Nipped-B_C,PF12830.10,Sister chromatid cohesion C-terminus,XP_022820111.1,"nipped-B protein, partial [Spodoptera litura]",-8241226:8249102,4.6e-67
+126,zf-RING_2,PF13639.9,Ring finger domain,XP_022825898.1,E3 ubiquitin-protein ligase RNF181 [Spodoptera litura],-4468413:4469684,1.1e-13
+127,Leo1,PF04004.16,Leo1-like protein,XP_022815383.1,another transcription unit protein [Spodoptera litura],-8121955:8128801,2.8e-52
+128,HLH,PF00010.29,Helix-loop-helix DNA-binding domain,XP_022832833.1,uncharacterized protein LOC111360822 isoform X1 [Spodoptera litura],+3848648:3866781,3.3e-25
+129,ELM2,PF01448.27,ELM2 domain,XP_022817982.1,metastasis-associated protein MTA3 [Spodoptera litura],+9931265:9976773,2e-15
+130,APOBEC_N,PF08210.14,APOBEC-like N-terminal domain,XP_022817681.1,tRNA-specific adenosine deaminase 2 [Spodoptera litura],+5737311:5737811,0.00047
+131,PHD,PF00628.32,PHD-finger,XP_022825261.1,PHD finger protein 14 isoform X4 [Spodoptera litura],-4549134:4564697,9.8e-29
+132,HSA,PF07529.16,HSA domain,XP_022819403.1,helicase domino [Spodoptera litura],+1469949:1503687,6.7e-20
+133,Rtt106,PF08512.15,Histone chaperone Rttp106-like,XP_022813825.1,FACT complex subunit Ssrp1 [Spodoptera litura],+3254655:3266143,1.4e-25
+134,Mtf2_C,PF14061.9,Polycomb-like MTF2 factor 2,XP_022835076.1,metal-response element-binding transcription factor 2 isoform X2 [Spodoptera litura],+70788:76096,6.3e-05
+135,Kelch_3,PF13415.9,"Galactose oxidase, central domain",XP_022832046.1,leucine-zipper-like transcriptional regulator 1 [Spodoptera litura],+2318272:2331052,2.1e-38
+136,zf-UBP,PF02148.22,Zn-finger in ubiquitin-hydrolases and other protein,XP_022824520.1,ubiquitin carboxyl-terminal hydrolase 3-like [Spodoptera litura],-3166666:3171732,5.5e-20
+137,Transposase_1,PF01359.21,Transposase (partial DDE domain),XP_022822885.1,histone-lysine N-methyltransferase SETMAR-like [Spodoptera litura],-8016358:8017407,2.7e-28
+138,PWWP,PF00855.20,PWWP domain,XP_022827343.1,uncharacterized protein LOC111357044 [Spodoptera litura],+9282517:9299719,2.1e-29
+139,Hist_deacetyl,PF00850.22,Histone deacetylase domain,XP_022822091.1,histone deacetylase 6 isoform X2 [Spodoptera litura],+13840956:13860482,3.6e-177
+140,HNF_C,PF09354.13,HNF3 C-terminal domain,,,,
+141,TP1,PF02079.19,Nuclear transition protein 1,,,,
+142,JmjC_2,PF08007.15,JmjC domain,XP_022835243.1,bifunctional lysine-specific demethylase and histidyl-hydroxylase NO66 [Spodoptera litura],+22478:24327,2e-35
+143,AAA,PF00004.32,ATPase family associated with various cellular activities (AAA),XP_022819416.1,transitional endoplasmic reticulum ATPase TER94 [Spodoptera litura],+9955109:9963774,1.9e-95
+144,zf-C2H2_6,PF13912.9,C2H2-type zinc finger,XP_022834361.1,zinc finger protein 883-like [Spodoptera litura],+78289:81782,2.7e-25
+145,zf-PARP,PF00645.21,Poly(ADP-ribose) polymerase and DNA-Ligase Zn-finger region,XP_022815879.1,poly [ADP-ribose] polymerase [Spodoptera litura],+5595334:5609906,7.3e-35
+146,Myb_DNA-binding,PF00249.34,Myb-like DNA-binding domain,XP_022837281.1,transcriptional activator Myb isoform X6 [Spodoptera litura],-4860798:4932450,4.8e-45
+147,DPF1-3_N,PF14051.9,"DPF1-3, N-terminal",XP_022818738.1,zinc finger protein neuro-d4 isoform X1 [Spodoptera litura],+5773791:5799579,1.8e-37
+148,Arrestin_N,PF00339.32,"Arrestin (or S-antigen), N-terminal domain",XP_022824591.1,arrestin domain-containing protein 17-like [Spodoptera litura],+6920840:6933789,1.8e-45
+149,SPRY,PF00622.31,SPRY domain,XP_022828487.1,ryanodine receptor [Spodoptera litura],+6056603:6209182,2.5e-68
+150,Nucleoporin2,PF04096.17,Nucleoporin autopeptidase,XP_022835126.1,"nuclear pore complex protein Nup98-Nup96-like, partial [Spodoptera litura]",+29631:73411,4e-42
+151,Metallophos,PF00149.31,Calcineurin-like phosphoesterase,XP_022831382.1,serine/threonine-protein phosphatase 4 catalytic subunit isoform X2 [Spodoptera litura],-10977232:10981181,2e-40
+152,DUF3504,PF12012.11,Domain of unknown function (DUF3504),XP_022815319.1,zinc finger MYM-type protein 3-like isoform X2 [Spodoptera litura],-4306839:4325461,1.5e-66
+153,SSXT,PF05030.15,SSXT protein (N-terminal region),XP_022820472.1,vegetative cell wall protein gp1-like [Spodoptera litura],+9646134:9648307,2.5e-30
+154,PARP,PF00644.23,Poly(ADP-ribose) polymerase catalytic domain,XP_022815879.1,poly [ADP-ribose] polymerase [Spodoptera litura],+5595334:5609906,6.2e-70
+155,53-BP1_Tudor,PF09038.13,Tumour suppressor p53-binding protein-1 Tudor,XP_022824465.1,TP53-binding protein 1-like isoform X2 [Spodoptera litura],+9572871:9585774,6.4e-05
+156,Menin,PF05053.16,Menin,XP_022814804.1,menin [Spodoptera litura],+9991602:9993972,1.9e-207
+157,YL1_C,PF08265.14,YL1 nuclear protein C-terminal domain,XP_022830911.1,INO80 complex subunit C [Spodoptera litura],-11675589:11676218,3.5e-11
+158,FTO_CTD,PF12934.10,FTO C-terminal domain,,,,
+159,MT-A70,PF05063.17,MT-A70,XP_022818540.1,probable N6-adenosine-methyltransferase MT-A70-like protein [Spodoptera litura],+4608460:4619068,3e-59
+160,YEATS,PF03366.19,YEATS family,XP_022820258.1,YEATS domain-containing protein 4 [Spodoptera litura],+14659358:14662151,5.7e-34
+161,MutS_V,PF00488.24,MutS domain V,XP_022815619.1,probable DNA mismatch repair protein Msh6 isoform X2 [Spodoptera litura],+7072293:7089532,1.5e-68
+162,PI3_PI4_kinase,PF00454.30,Phosphatidylinositol 3- and 4-kinase,XP_022822531.1,serine/threonine-protein kinase mTOR [Spodoptera litura],-3747420:3756246,2.4e-74
+163,Auts2,PF15336.9,Autism susceptibility gene 2 protein,XP_022814004.1,probable fibrosin-1 [Spodoptera litura],+5753349:5755013,4.6e-19
+164,PAD_M,PF08527.13,Protein-arginine deiminase (PAD) middle domain,,,,
+165,Nop,PF01798.21,"snoRNA binding domain, fibrillarin",XP_022820872.1,nucleolar protein 58 [Spodoptera litura],+893854:897332,2.2e-82
+166,BAF250_C,PF12031.11,SWI/SNF-like complex subunit BAF250/Osa,XP_022815777.1,trithorax group protein osa [Spodoptera litura],+7938107:8021139,1.4e-26
+167,TAF8_C,PF10406.12,Transcription factor TFIID complex subunit 8 C-term,XP_022836000.1,transcription initiation factor TFIID subunit 8 [Spodoptera litura],+5075:7576,3.8e-19
+168,Sgf11,PF08209.14,Sgf11 (transcriptional regulation protein),XP_022817683.1,SAGA-associated factor 11 homolog [Spodoptera litura],+9681124:9684978,1.6e-16
+169,DTHCT,PF08070.14,DTHCT (NUC029) region,XP_022821710.1,transcription factor TBF1-like [Spodoptera litura],-4416851:4419418,0.006
+170,Las1,PF04031.16,Las1-like,XP_022824719.1,uncharacterized protein LOC111355185 [Spodoptera litura],+7787032:7788712,1.9e-38
+171,PK_Tyr_Ser-Thr,PF07714.20,Protein tyrosine and serine/threonine kinase,XP_022831172.1,tyrosine-protein kinase hopscotch [Spodoptera litura],+7726855:7754242,1.6e-111
+172,HJURP_C,PF12347.11,Holliday junction regulator protein family C-terminal repeat,XP_022822219.1,myocyte-specific enhancer factor 2 isoform X8 [Spodoptera litura],+4061401:4070317,1.1e-15
+173,14-3-3,PF00244.23,14-3-3 protein,XP_022821603.1,14-3-3 protein zeta isoform X1 [Spodoptera litura],+6007646:6009665,1.4e-109
+174,HABP4_PAI-RBP1,PF04774.18,Hyaluronan / mRNA binding family,XP_022819788.1,plasminogen activator inhibitor 1 RNA-binding protein-like [Spodoptera litura],+13251823:13252992,7.6e-27
+175,JAB,PF01398.24,JAB1/Mov34/MPN/PAD-1 ubiquitin protease,XP_022819465.1,COP9 signalosome complex subunit 5 [Spodoptera litura],+1726641:1728556,8.2e-35
+176,zf-rbx1,PF12678.10,RING-H2 zinc finger domain,XP_022829185.1,RING-box protein 1A [Spodoptera litura],-6262815:6263675,1.4e-25
+177,HUN,PF08729.13,HPC2 and ubinuclein domain,XP_022823570.1,yemanuclein-like isoform X5 [Spodoptera litura],-1171402:1190732,1.5e-17
+178,Hat1_N,PF10394.12,Histone acetyl transferase HAT1 N-terminus,XP_022835208.1,histone acetyltransferase type B catalytic subunit [Spodoptera litura],+6864:9682,3.5e-45
+179,Chromo,PF00385.27,Chromo (CHRromatin Organisation MOdifier) domain,XP_022834786.1,chromobox protein homolog 1-like [Spodoptera litura],-115619:119556,2.2e-30
+180,LRR_4,PF12799.10,Leucine Rich repeats (2 copies),XP_022825790.1,protein artichoke [Spodoptera litura],-1323171:1337615,2.1e-65
+181,SNF2-rel_dom,PF00176.26,SNF2-related domain,XP_022829096.1,chromatin-remodeling complex ATPase chain Iswi isoform X2 [Spodoptera litura],+6585684:6590703,1e-79
+182,PAXNEB,PF05625.14,PAXNEB protein,XP_022829228.1,elongator complex protein 4 [Spodoptera litura],+3733703:3736234,2.1e-97
+183,BPL_C,PF02237.20,Biotin protein ligase C terminal domain,XP_022815585.1,biotin--protein ligase isoform X2 [Spodoptera litura],-6393844:6404807,0.00038
+184,HECT,PF00632.28,HECT-domain (ubiquitin-transferase),XP_022815754.1,E3 ubiquitin-protein ligase NEDD4 isoform X4 [Spodoptera litura],-733238:768072,5.3e-94
+185,EnY2,PF10163.12,Transcription factor e(y)2,XP_022820360.1,transcription and mRNA export factor ENY2-like [Spodoptera litura],+6995669:6996426,7.6e-30
+186,Bromo_TP,PF07524.16,Bromodomain associated,XP_022836000.1,transcription initiation factor TFIID subunit 8 [Spodoptera litura],+5075:7576,1.1e-20
+187,Cullin_Nedd8,PF10557.12,Cullin protein neddylation domain,XP_022833919.1,cullin-3 [Spodoptera litura],+492482:498875,1.3e-26
+188,DUSP,PF06337.15,DUSP domain,XP_022818633.1,uncharacterized protein LOC111351095 [Spodoptera litura],-4124892:4138683,1.4e-35
+189,OCRE,PF17780.4,OCRE domain,XP_022837284.1,RNA-binding protein 5-A-like [Spodoptera litura],-1232093:1234291,8.8e-16
+190,DUF3512,PF12024.11,Domain of unknown function (DUF3512),XP_022822358.1,bromodomain-containing protein 7 isoform X4 [Spodoptera litura],+902342:908985,4e-29
+191,PK,PF00224.24,"Pyruvate kinase, barrel domain",XP_022825246.1,pyruvate kinase-like [Spodoptera litura],-11912014:11922383,3.9e-159
+192,Paf1,PF03985.16,Paf1,XP_022823814.1,RNA polymerase II-associated factor 1 homolog [Spodoptera litura],-6964841:6969134,2.7e-148
+193,KRAB,PF01352.30,KRAB box,,,,
+194,DUF3736,PF12540.11,Protein of unknown function (DUF3736),XP_022829871.1,uncharacterized protein LOC111358798 isoform X3 [Spodoptera litura],+5693367:5702288,8.6e-35
+195,PAN_1,PF00024.29,PAN domain,XP_022833827.1,uncharacterized protein LOC111361362 isoform X6 [Spodoptera litura],+6051523:6067401,1.4e-42
+196,Fibrillarin,PF01269.20,Fibrillarin,XP_022828716.1,rRNA 2'-O-methyltransferase fibrillarin [Spodoptera litura],+1821308:1825991,5.8e-109
+197,GATA,PF00320.30,GATA zinc finger,XP_022816124.1,GATA-binding factor C isoform X3 [Spodoptera litura],-10537357:10617803,9.8e-31
+198,Laminin_G_2,PF02210.27,Laminin G domain,XP_022817672.1,neurexin-1-like isoform X4 [Spodoptera litura],+608896:780536,2.2e-153
+199,RNase_PH,PF01138.24,"3' exoribonuclease family, domain 1",XP_022818079.1,"polyribonucleotide nucleotidyltransferase 1, mitochondrial [Spodoptera litura]",-12478473:12491512,1.3e-40
+200,AAA_22,PF13401.9,AAA domain,XP_022824429.1,"dynein heavy chain, cytoplasmic isoform X2 [Spodoptera litura]",+7592660:7643913,4.3e-17
+201,USP7_C2,PF14533.9,Ubiquitin-specific protease C-terminal,XP_022831286.1,ubiquitin carboxyl-terminal hydrolase 7-like isoform X10 [Spodoptera litura],+9046793:9062341,9.1e-66
+202,PHD_3,PF13922.9,"PHD domain of transcriptional enhancer, Asx",XP_022820650.1,putative Polycomb group protein ASXL3 [Spodoptera litura],-4540036:4544486,1.2e-18
+203,Pre-SET,PF05033.19,Pre-SET motif,XP_022824821.1,histone-lysine N-methyltransferase EHMT1 isoform X2 [Spodoptera litura],+317750:328260,1.6e-16
+204,PseudoU_synth_2,PF00849.25,RNA pseudouridylate synthase,XP_022820380.1,RNA pseudouridylate synthase domain-containing protein 2-like isoform X3 [Spodoptera litura],+3295401:3378971,3.6e-34
+205,FHA,PF00498.29,FHA domain,XP_022830083.1,probable helicase senataxin [Spodoptera litura],+6901258:6911195,7.3e-17
+206,CHDCT2,PF08074.14,CHDCT2 (NUC038) domain,XP_022820129.1,chromodomain-helicase-DNA-binding protein Mi-2 homolog isoform X2 [Spodoptera litura],+3214100:3229730,1.5e-77
+207,Ank_4,PF13637.9,Ankyrin repeats (many copies),XP_022837057.1,ankyrin-3-like isoform X8 [Spodoptera litura],+3689420:3734717,4.7e-138
+208,Sds3,PF08598.14,Sds3-like,XP_022826862.1,breast cancer metastasis-suppressor 1-like protein [Spodoptera litura],+1660089:1770947,6.6e-20
+209,CENP-C_mid,PF15620.9,Centromere assembly component CENP-C middle DNMT3B-binding region,,,,
+210,DEK_C,PF08766.14,DEK C terminal domain,XP_022818492.1,protein DEK-like isoform X2 [Spodoptera litura],-4961492:4981298,1.2e-16
+211,P68HR,PF08061.14,P68HR (NUC004) repeat,,,,
+212,Dpy-30,PF05186.16,Dpy-30 motif,XP_022814616.1,protein dpy-30 homolog [Spodoptera litura],+2800938:2801381,4.4e-21
+213,Cohesin_HEAT,PF12765.10,HEAT repeat associated with sister chromatid cohesion,XP_022820111.1,"nipped-B protein, partial [Spodoptera litura]",-8241226:8249102,1.4e-11
+214,TFIID-31kDa,PF02291.18,"Transcription initiation factor IID, 31kD subunit",XP_022822832.1,transcription initiation factor TFIID subunit 9 [Spodoptera litura],-12671310:12673002,4.7e-50
+215,zf-B_box,PF00643.27,B-box zinc finger,XP_022823886.1,transcription intermediary factor 1-beta [Spodoptera litura],-11774213:11783552,8.4e-13
+216,BAH,PF01426.21,BAH domain,XP_022827311.1,protein polybromo-1 isoform X9 [Spodoptera litura],-4524724:4562052,1.7e-35
+217,HTH_Tnp_Tc3_2,PF01498.21,Transposase,XP_022832725.1,uncharacterized protein LOC111360769 [Spodoptera litura],-2490215:2493313,0.0004
+218,Linker_histone,PF00538.22,linker histone H1 and H5 family,XP_022817221.1,"histone H1.1, embryonic-like [Spodoptera litura]",-6877701:6878489,6e-26
+219,CAF-1_p60_C,PF15512.9,"Chromatin assembly factor complex 1 subunit p60, C-terminal",,,,
+220,SWIRM,PF04433.20,SWIRM domain,XP_022815253.1,SWI/SNF complex subunit SMARCC2 isoform X2 [Spodoptera litura],+6360510:6382501,9.8e-33
+221,PADR1,PF08063.15,PADR1 (NUC008) domain,XP_022815879.1,poly [ADP-ribose] polymerase [Spodoptera litura],+5595334:5609906,6.3e-23
+222,PCAF_N,PF06466.14,PCAF (P300/CBP-associated factor) N-terminal domain,XP_022823942.1,histone acetyltransferase KAT2A-like [Spodoptera litura],+7273874:7282030,1.5e-99
+223,TLE_N,PF03920.18,Groucho/TLE N-terminal Q-rich domain,XP_022824314.1,transducin-like enhancer protein 4 isoform X3 [Spodoptera litura],-7829957:7886523,1.7e-64
+224,zf-C3Hc3H,PF13891.9,Potential DNA-binding domain,XP_022817031.1,KAT8 regulatory NSL complex subunit 2 isoform X2 [Spodoptera litura],-5771180:5781044,5.5e-27
+225,SAP,PF02037.30,SAP domain,XP_022830213.1,actin cytoskeleton-regulatory complex protein pan1 [Spodoptera litura],-6576357:6607504,8.6e-13
+226,HARE-HTH,PF05066.16,"HB1, ASXL, restriction endonuclease HTH domain",,,,
+227,Bromodomain,PF00439.28,Bromodomain,XP_022827303.1,protein polybromo-1 isoform X2 [Spodoptera litura],-4524724:4562052,1.3e-107
+228,TFIID_30kDa,PF03540.16,Transcription initiation factor TFIID 23-30kDa subunit,XP_022834265.1,transcription initiation factor TFIID subunit 10-like [Spodoptera litura],+16900:19851,3.2e-26
+229,Haspin_kinase,PF12330.11,Haspin like kinase domain,XP_022828413.1,uncharacterized protein LOC111357840 [Spodoptera litura],+13007061:13027990,5.6e-58
+230,DUF3452,PF11934.11,Domain of unknown function (DUF3452),XP_022826148.1,retinoblastoma-like protein 1 [Spodoptera litura],-4884539:4893162,4e-43
+231,N-SET,PF11764.11,COMPASS (Complex proteins associated with Set1p) component N,XP_022831581.1,histone-lysine N-methyltransferase SETD1 isoform X8 [Spodoptera litura],+8368929:8385564,2.9e-22
+232,SET,PF00856.31,SET domain,XP_022824020.1,histone-lysine N-methyltransferase eggless [Spodoptera litura],-5788242:5813202,2.4e-28
+233,CARM1,PF11531.11,Coactivator-associated arginine methyltransferase 1 N terminal,XP_022818561.1,histone-arginine methyltransferase CARMER [Spodoptera litura],+8194157:8195755,3.5e-06
+234,RRM_5,PF13893.9,"RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)",XP_022828668.1,heterogeneous nuclear ribonucleoprotein L-like isoform X4 [Spodoptera litura],-8983669:9481462,1e-47
+235,LRR_6,PF13516.9,Leucine Rich repeat,XP_022837402.1,F-box/LRR-repeat protein 14 [Spodoptera litura],+8542051:8543388,5.6e-29
+236,DNMT1-RFD,PF12047.11,Cytosine specific DNA methyltransferase replication foci domain,XP_022814239.1,DNA (cytosine-5)-methyltransferase 1-like [Spodoptera litura],+7706430:7712905,5.3e-40
+237,Nbs1_C,PF08599.13,DNA damage repair protein Nbs1,,,,
+238,Rubis-subs-bind,PF09273.14,Rubisco LSMT substrate-binding,XP_022826711.1,histone-lysine N-methyltransferase setd3 [Spodoptera litura],-7743485:7769530,2.7e-15
+239,Fcf2,PF08698.14,Fcf2 pre-rRNA processing,XP_022821883.1,deoxynucleotidyltransferase terminal-interacting protein 2 [Spodoptera litura],-3288775:3290553,4.7e-37
+240,tRNA_bind_2,PF13725.9,Possible tRNA binding domain,XP_022823654.1,RNA cytidine acetyltransferase [Spodoptera litura],+3033737:3046294,4.6e-55
+241,zf-CW,PF07496.18,CW-type Zinc Finger,XP_022820058.1,zinc finger CW-type PWWP domain protein 1-like [Spodoptera litura],-11048126:11050091,5.1e-14
+242,PAS_11,PF14598.9,PAS domain,XP_022815612.1,neuronal PAS domain-containing protein 4B-like [Spodoptera litura],+5264302:5384712,5.8e-36
+243,WW,PF00397.29,WW domain,XP_022820654.1,E3 ubiquitin-protein ligase Su(dx) [Spodoptera litura],-5905429:5912994,1.3e-47
+244,zf-RAG1,PF10426.12,Recombination-activating protein 1 zinc-finger domain,,,,
+245,TFIID_20kDa,PF03847.16,Transcription initiation factor TFIID subunit A,XP_022834344.1,transcription initiation factor TFIID subunit 12 [Spodoptera litura],+116591:118195,9.4e-29
+246,zf-TAZ,PF02135.19,TAZ zinc finger,XP_022829259.1,LOW QUALITY PROTEIN: CREB-binding protein-like [Spodoptera litura],+2709055:2729162,1.9e-29
+247,DUF1518,PF07469.15,"Nuclear receptor coactivator, DUF1518",,,,
+248,Rad54_N,PF08658.13,Rad54 N terminal,XP_022831667.1,DNA repair and recombination protein RAD54-like [Spodoptera litura],-7684455:7686749,3.7e-05
+249,PHD_2,PF13831.9,PHD-finger,XP_022831612.1,bromodomain-containing protein 1 [Spodoptera litura],+8908085:8924712,1.4e-15
+250,CPSF_A,PF03178.18,CPSF A subunit region,XP_022829922.1,splicing factor 3B subunit 3 isoform X1 [Spodoptera litura],+5606406:5614663,8.7e-94
+251,BRCA-2_helical,PF09169.13,"BRCA2, helical",XP_022823991.1,breast cancer type 2 susceptibility protein homolog [Spodoptera litura],-565644:577653,3.3e-11
+252,TIP49,PF06068.16,TIP49 P-loop domain,XP_022815886.1,ruvB-like helicase 1 [Spodoptera litura],-5568611:5572824,1.2e-171
+253,PP2C,PF00481.24,Protein phosphatase 2C,XP_022817697.1,protein phosphatase 1A [Spodoptera litura],+1790110:1792893,2.6e-80
+254,CENP_C_N,PF15622.9,Kinetochore assembly subunit CENP-C N-terminal,,,,
+255,CBS,PF00571.31,CBS domain,XP_022834520.1,5'-AMP-activated protein kinase subunit gamma-2-like isoform X2 [Spodoptera litura],+15896:53149,4.1e-33
+256,CBFD_NFYB_HMF,PF00808.26,Histone-like transcription factor (CBF/NF-Y) and archaeal histone,XP_022816282.1,transcriptional activator hap3 isoform X2 [Spodoptera litura],+11557301:11558811,2.9e-26
+257,CNH,PF00780.25,CNH domain,XP_022818908.1,serine/threonine-protein kinase mig-15 isoform X9 [Spodoptera litura],-6798123:6810002,1.7e-63
+258,RAG2_PHD,PF13341.9,RAG2 PHD domain,,,,
+259,UBA,PF00627.34,UBA/TS-N domain,XP_022820073.1,UV excision repair protein RAD23 homolog A [Spodoptera litura],-7610957:7611904,7.6e-26
+260,MCRS_N,PF13325.9,N-terminal region of micro-spherule protein,XP_022821999.1,microspherule protein 1 [Spodoptera litura],-6429546:6451583,3.4e-85
+261,zf-C5HC2,PF02928.19,C5HC2 zinc finger,XP_022814697.1,lysine-specific demethylase lid-like [Spodoptera litura],+9528136:9530577,5.8e-15
+262,THRAP3_BCLAF1,PF15440.9,THRAP3/BCLAF1 family,XP_022827975.1,uncharacterized protein LOC111357455 [Spodoptera litura],+3332595:3343399,0.0054
+263,Tet_JBP,PF12851.10,Oxygenase domain of the 2OGFeDO superfamily,XP_022816428.1,DNA N6-methyl adenine demethylase isoform X1 [Spodoptera litura],-10719004:10826028,9.6e-90
+264,FYRC,PF05965.17,F/Y rich C-terminus,XP_022825137.1,uncharacterized protein LOC111355468 isoform X2 [Spodoptera litura],-10171600:10198316,3.4e-22
+265,CHDNT,PF08073.15,CHDNT (NUC034) domain,XP_022820130.1,chromodomain-helicase-DNA-binding protein Mi-2 homolog isoform X3 [Spodoptera litura],+3214100:3229730,2.5e-27
+266,SAP25,PF15476.9,Histone deacetylase complex subunit SAP25,,,,
+267,zf-CCHC_6,PF15288.9,Zinc knuckle,XP_022830703.1,transcription initiation factor TFIID subunit 1 isoform X5 [Spodoptera litura],-6841980:6863480,1.4e-07
+268,Methyltransf_16,PF10294.12,Lysine methyltransferase,XP_022825944.1,protein-lysine methyltransferase METTL21D-like [Spodoptera litura],-4497976:4499001,2.1e-36
+269,zf-HC5HC2H,PF13771.9,PHD-like zinc-binding domain,XP_022831612.1,bromodomain-containing protein 1 [Spodoptera litura],+8908085:8924712,8.4e-26
+270,HNH,PF01844.26,HNH endonuclease,,,,
+271,zf-CXXC,PF02008.23,CXXC zinc finger domain,XP_022831490.1,jmjC domain-containing histone demethylation protein 1 [Spodoptera litura],-8791507:8814122,8.9e-14
+272,Amino_oxidase,PF01593.27,Flavin containing amine oxidoreductase,XP_022828180.1,lysine-specific histone demethylase 1A [Spodoptera litura],+3943076:4186382,2.1e-121
+273,DDE_1,PF03184.22,DDE superfamily endonuclease,XP_022823926.1,tigger transposable element-derived protein 4-like [Spodoptera litura],-5017031:5018569,2.9e-46
+274,Trypsin,PF00089.29,Trypsin,XP_022826384.1,transmembrane protease serine 9-like [Spodoptera litura],+6313046:6336436,1.6e-164
+275,Voldacs,PF03517.16,Regulator of volume decrease after cellular swelling,XP_022828538.1,methylosome subunit pICln [Spodoptera litura],-1741665:1745230,1.8e-24
+276,PWI,PF01480.20,PWI domain,XP_022816034.1,serine/arginine repetitive matrix protein 1 isoform X5 [Spodoptera litura],+8605405:8612497,2.3e-29
+277,HDAC4_Gln,PF12203.11,Glutamine rich N terminal domain of histone deacetylase 4,XP_022838048.1,LOW QUALITY PROTEIN: histone deacetylase 4 [Spodoptera litura],-2047019:2117622,0.002
+278,CAF-1_p150,PF11600.11,"Chromatin assembly factor 1 complex p150 subunit, N-terminal",,,,
+279,Toprim,PF01751.25,Toprim domain,XP_022831153.1,DNA topoisomerase 3-alpha [Spodoptera litura],+5177722:5184261,2.4e-18
+280,zf-CCHC,PF00098.26,Zinc knuckle,XP_022819859.1,CCHC-type zinc finger protein CG3800 [Spodoptera litura],-12519266:12520758,2.5e-44
+281,Arb2,PF09757.12,Arb2 domain,XP_022824578.1,UPF0528 protein CG10038 [Spodoptera litura],+12112163:12113583,2.7e-10
+282,PBD,PF00786.31,P21-Rho-binding domain,XP_022820937.1,serine/threonine-protein kinase PAK 3 isoform X1 [Spodoptera litura],-8808832:8816583,1.1e-24
+283,QLQ,PF08880.14,QLQ,XP_022824228.1,ATP-dependent helicase brm [Spodoptera litura],-4688646:4699603,4.8e-08
+284,zf-CCCH,PF00642.27,Zinc finger C-x8-C-x5-C-x3-H type (and similar),XP_022830301.1,cleavage and polyadenylation specificity factor subunit 4 [Spodoptera litura],+454159:455289,8.2e-23
+285,Ribosomal_L7Ae,PF01248.29,Ribosomal protein L7Ae/L30e/S12e/Gadd45 family,XP_022818241.1,40S ribosomal protein S12 [Spodoptera litura],+4627715:4630309,5.2e-30
+286,Skp1_POZ,PF03931.18,"Skp1 family, tetramerisation domain",XP_022829623.1,S-phase kinase-associated protein 1 [Spodoptera litura],-6256475:6256963,1.4e-25
+287,RCC1,PF00415.21,Regulator of chromosome condensation (RCC1) repeat,XP_022827451.1,probable E3 ubiquitin-protein ligase HERC2 [Spodoptera litura],+2008637:2054184,1.3e-193
+288,DNA_pol_phi,PF04931.16,DNA polymerase phi,XP_022831741.1,myb-binding protein 1A-like protein [Spodoptera litura],-10955240:10959399,1.6e-135
+289,Kringle,PF00051.21,Kringle domain,XP_022815875.1,tyrosine-protein kinase transmembrane receptor Ror2 [Spodoptera litura],+6841207:6843129,1.4e-23
+290,MBT,PF02820.21,mbt repeat,XP_022814574.1,polycomb protein Sfmbt-like isoform X2 [Spodoptera litura],+6568370:6573632,4.7e-85
+291,BRK,PF07533.19,BRK domain,XP_022824228.1,ATP-dependent helicase brm [Spodoptera litura],-4688646:4699603,3.1e-17
+292,HSR,PF03172.16,HSR domain,,,,
+293,Nuc_rec_co-act,PF08815.13,Nuclear receptor coactivator,,,,
+294,2-Hacid_dh_C,PF02826.22,"D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain",XP_022823204.1,glyoxylate reductase/hydroxypyruvate reductase-like [Spodoptera litura],+2694818:2702097,3.2e-61
+295,Rad51,PF08423.14,Rad51,XP_022817523.1,DNA repair protein RAD51 homolog 1 [Spodoptera litura],-4296006:4298845,1.6e-130
+296,VEFS-Box,PF09733.12,VEFS-Box of polycomb protein,XP_022830395.1,polycomb protein suz12-B [Spodoptera litura],-4302019:4307849,1.4e-49
+297,TTD,PF12148.11,Tandem tudor domain within UHRF1,XP_022832985.1,E3 ubiquitin-protein ligase UHRF1-like [Spodoptera litura],+18070406:18080803,2.4e-40
+298,CHZ,PF09649.13,Histone chaperone domain CHZ,,,,
+299,NUC202,PF08166.15,NUC202 domain,,,,
+300,PARP_reg,PF02877.17,"Poly(ADP-ribose) polymerase, regulatory domain",XP_022815879.1,poly [ADP-ribose] polymerase [Spodoptera litura],+5595334:5609906,1.3e-43
+301,E3_UbLigase_EDD,PF11547.11,E3 ubiquitin ligase EDD,XP_022827543.1,E3 ubiquitin-protein ligase UBR5 isoform X4 [Spodoptera litura],+8880573:8908612,5e-30
+302,Rb_C,PF08934.13,Rb C-terminal domain,,,,
+303,TmcA_N,PF08351.14,"tRNA(Met) cytidine acetyltransferase TmcA, N-terminal",XP_022823654.1,RNA cytidine acetyltransferase [Spodoptera litura],+3033737:3046294,1.6e-54
+304,Piwi,PF02171.20,Piwi domain,XP_022821693.1,protein argonaute-2 isoform X2 [Spodoptera litura],-10377213:10384472,4.1e-111
+305,Ank_2,PF12796.10,Ankyrin repeats (3 copies),XP_022814637.1,serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit A [Spodoptera litura],+3000188:3051978,4.3e-180
+306,HHH_5,PF14520.9,Helix-hairpin-helix domain,XP_022825642.1,DNA excision repair protein ERCC-1 [Spodoptera litura],-10802033:10804909,6.3e-09
+307,PRY,PF13765.9,SPRY-associated domain,,,,
+308,Ubiquitin_3,PF14836.9,Ubiquitin-like domain,,,,
+309,PrmA,PF06325.16,Ribosomal protein L11 methyltransferase (PrmA),XP_022837268.1,electron transfer flavoprotein beta subunit lysine methyltransferase-like [Spodoptera litura],+7971655:7993088,1.6e-14
+310,zf-C2H2_4,PF13894.9,C2H2-type zinc finger,XP_022830547.1,zinc finger protein 271-like isoform X6 [Spodoptera litura],+4399754:4411511,2e-61
+311,BRE,PF06113.15,Brain and reproductive organ-expressed protein (BRE),XP_022836113.1,BRISC and BRCA1-A complex member 2-like [Spodoptera litura],-261:1251,5.6e-75
+312,Myosin_head,PF00063.24,Myosin head (motor domain),XP_022830524.1,"myosin heavy chain, non-muscle isoform X2 [Spodoptera litura]",+12926070:12994425,0
+313,Peptidase_M24,PF00557.27,Metallopeptidase family M24,XP_022835672.1,xaa-Pro dipeptidase isoform X2 [Spodoptera litura],-4860:10582,5.4e-54
+314,zf-RanBP,PF00641.21,Zn-finger in Ran binding protein and others,XP_022823344.1,uncharacterized protein LOC111354236 [Spodoptera litura],+10401378:10405885,1e-14
+315,LRR_1,PF00560.36,Leucine Rich Repeat,XP_022825804.1,chaoptin-like isoform X2 [Spodoptera litura],+11330816:11357944,3.2e-24
+316,Surp,PF01805.23,Surp module,XP_022826063.1,splicing factor 3A subunit 1 [Spodoptera litura],+1953027:1957577,2.6e-44
+317,DP,PF08781.13,Transcription factor DP,XP_022820722.1,transcription factor Dp-1 isoform X3 [Spodoptera litura],+5703102:5707702,2.5e-58
+318,HMG_box,PF00505.22,HMG (high mobility group) box,XP_022828914.1,putative mediator of RNA polymerase II transcription subunit 26 [Spodoptera litura],-10801228:10817928,9.5e-32
+319,zf-FCS,PF06467.17,MYM-type Zinc finger with FCS sequence motif,XP_022815747.1,uncharacterized protein LOC111349020 isoform X3 [Spodoptera litura],-4293151:4295608,8.9e-11
+320,DUF1325,PF07039.14,SGF29 tudor-like domain,XP_022826340.1,SAGA-associated factor 29 [Spodoptera litura],+4880496:4883107,1e-34
+321,BRCT_assoc,PF12820.10,Serine-rich domain associated with BRCT,,,,
+322,DUF908,PF06012.15,Domain of Unknown Function (DUF908),,,,
+323,TBP-binding,PF09247.14,TATA box-binding protein binding,XP_022830702.1,transcription initiation factor TFIID subunit 1 isoform X4 [Spodoptera litura],-6841980:6863480,1.4e-22
+324,CDC73_C,PF05179.17,"RNA pol II accessory factor, Cdc73 family, C-terminal",XP_022818779.1,parafibromin [Spodoptera litura],+5702205:5707248,1e-48
+325,ENT,PF03735.17,ENT domain,XP_022821052.1,BRCA2-interacting transcriptional repressor EMSY [Spodoptera litura],+10202950:10207848,1e-22
+326,FYRN,PF05964.17,F/Y-rich N-terminus,XP_022825137.1,uncharacterized protein LOC111355468 isoform X2 [Spodoptera litura],-10171600:10198316,2.5e-18
+327,DMAP_binding,PF06464.14,DMAP1-binding Domain,XP_022833209.1,disco-interacting protein 2 isoform X10 [Spodoptera litura],+4118511:4213214,3e-25
+328,Peptidase_C12,PF01088.24,"Ubiquitin carboxyl-terminal hydrolase, family 1",XP_022837747.1,ubiquitin carboxyl-terminal hydrolase calypso [Spodoptera litura],+5331733:5335483,1.6e-67
+329,HIRA_B,PF09453.13,HIRA B motif,XP_022819941.1,protein HIRA homolog [Spodoptera litura],+13038630:13055673,1.3e-06
+330,SPOC,PF07744.16,SPOC domain,XP_022837292.1,putative RNA-binding protein 15 [Spodoptera litura],+9359970:9362219,2.9e-37
+331,Tantalus,PF15386.9,Drosophila Tantalus-like,XP_022819348.1,protein PRR14L-like [Spodoptera litura],+11727667:11728313,5.6e-09
+332,SRI,PF08236.14,SRI (Set2 Rpb1 interacting) domain,XP_022820579.1,probable histone-lysine N-methyltransferase CG1716 isoform X4 [Spodoptera litura],-10426535:10436766,3.2e-22
+333,Furin-like,PF00757.23,Furin-like cysteine rich region,XP_022833121.1,epidermal growth factor receptor isoform X2 [Spodoptera litura],+6201802:6327361,7e-35
+334,TAF6_C,PF07571.16,TAF6 C-terminal HEAT repeat domain,XP_022823284.1,transcription initiation factor TFIID subunit 6 isoform X2 [Spodoptera litura],+8479026:8486681,1.4e-26
+335,Peptidase_C48,PF02902.22,"Ulp1 protease family, C-terminal catalytic domain",XP_022820958.1,sentrin-specific protease 1-like [Spodoptera litura],+13276329:13279570,2.5e-43
+336,Forkhead,PF00250.21,Forkhead domain,XP_022833160.1,fork head domain-containing protein crocodile-like [Spodoptera litura],+8534288:8535298,3.8e-40
+337,DBINO,PF13892.9,DNA-binding domain,XP_022815757.1,"putative DNA helicase Ino80, partial [Spodoptera litura]",+4328311:4344230,1e-44
+338,Paxillin,PF03535.16,Paxillin family,,,,
+339,YL1,PF05764.16,YL1 nuclear protein,XP_022826304.1,vacuolar protein sorting-associated protein 72 homolog isoform X2 [Spodoptera litura],+10635212:10642219,1.8e-40
+340,zf-C2H2,PF00096.29,"Zinc finger, C2H2 type",XP_022821335.1,zinc finger protein 271-like [Spodoptera litura],+2509475:2521083,6.3e-83
+341,SRC-1,PF08832.13,Steroid receptor coactivator,,,,
+342,GUCT,PF08152.15,GUCT (NUC152) domain,,,,
+343,HhH-GPD,PF00730.28,HhH-GPD superfamily base excision DNA repair protein,XP_022830598.1,endonuclease III-like protein 1 [Spodoptera litura],-2709724:2712136,3.7e-22
+344,zf-H2C2_5,PF13909.9,C2H2-type zinc-finger domain,XP_022824264.1,zinc finger protein 761-like [Spodoptera litura],+1658758:1661682,5.8e-33
+345,NAGidase,PF07555.16,beta-N-acetylglucosaminidase,XP_022827289.1,uncharacterized protein LOC111357016 [Spodoptera litura],+8689735:8720049,5.4e-79
+346,P53_TAD,PF08563.14,P53 transactivation motif,,,,
+347,MMS1_N,PF10433.12,Mono-functional DNA-alkylating methyl methanesulfonate N-term,XP_022829922.1,splicing factor 3B subunit 3 isoform X1 [Spodoptera litura],+5606406:5614663,1.1e-178
+348,HIRAN,PF08797.14,HIRAN domain,,,,
+349,SH2,PF00017.27,SH2 domain,XP_022829001.1,tyrosine-protein phosphatase non-receptor type 11 [Spodoptera litura],-10876767:10878674,4.7e-48
+350,zf-UBR,PF02207.23,Putative zinc finger in N-recognin (UBR box),XP_022823531.1,E3 ubiquitin-protein ligase UBR1 isoform X6 [Spodoptera litura],-9450316:9486335,2.1e-20
+351,DnaJ,PF00226.34,DnaJ domain,XP_022819721.1,dnaJ homolog subfamily B member 6 isoform X2 [Spodoptera litura],-7941235:7946487,9.6e-29
+352,TAFII55_N,PF04658.16,TAFII55 protein conserved region,XP_022835599.1,transcription initiation factor TFIID subunit 7 [Spodoptera litura],+13364:14575,7.6e-59
+353,2OG-FeII_Oxy_2,PF13532.9,2OG-Fe(II) oxygenase superfamily,XP_022826542.1,nucleic acid dioxygenase ALKBH1 isoform X1 [Spodoptera litura],+6308292:6309772,2.2e-36
+354,DNA_methylase,PF00145.20,C-5 cytosine-specific DNA methylase,XP_022814239.1,DNA (cytosine-5)-methyltransferase 1-like [Spodoptera litura],+7706430:7712905,5.9e-53
+355,MOZ_SAS,PF01853.21,MOZ/SAS family,XP_022826728.1,histone acetyltransferase Tip60 isoform X4 [Spodoptera litura],-7850178:7857883,4e-86
+356,SIR2,PF02146.20,Sir2 family,XP_022818020.1,NAD-dependent protein deacetylase sirtuin-2-like [Spodoptera litura],+4282692:4287411,2e-61
+357,SAND,PF01342.24,SAND domain,XP_022832496.1,deformed epidermal autoregulatory factor 1 [Spodoptera litura],+941452:987906,8.1e-25
+358,Cupin_8,PF13621.9,Cupin-like domain,XP_022818606.1,uncharacterized protein LOC111351071 [Spodoptera litura],-3580378:3587476,3e-74
+359,zf-C2H2_jaz,PF12171.11,Zinc-finger double-stranded RNA-binding,XP_022831066.1,zinc finger protein 729-like [Spodoptera litura],+1500241:1502574,1.1e-25
+360,RFX_DNA_binding,PF02257.18,RFX DNA-binding domain,XP_022829243.1,uncharacterized protein LOC111358359 [Spodoptera litura],-8069530:8082435,1.2e-29
+361,DNAPKcs_CC3,PF08163.15,"DNA-dependent protein kinase catalytic subunit, CC3",XP_022818791.1,uncharacterized protein LOC111351222 [Spodoptera litura],-2952013:3028713,1.9e-16
+362,NAD_binding_2,PF03446.18,NAD binding domain of 6-phosphogluconate dehydrogenase,XP_022832302.1,"6-phosphogluconate dehydrogenase, decarboxylating [Spodoptera litura]",-12233885:12241282,1.1e-48
+363,Skp1,PF01466.22,"Skp1 family, dimerisation domain",XP_022829623.1,S-phase kinase-associated protein 1 [Spodoptera litura],-6256475:6256963,2.5e-28
+364,TAFH,PF07531.17,NHR1 homology to TAF,XP_022832432.1,transcription initiation factor TFIID subunit 4 isoform X7 [Spodoptera litura],-18473045:18488580,5.2e-32
+365,DDT,PF02791.20,DDT domain,XP_022819305.1,nucleosome-remodeling factor subunit NURF301 isoform X2 [Spodoptera litura],-7614659:7630524,4.4e-13
+366,SAD_SRA,PF02182.20,SAD/SRA domain,XP_022832985.1,E3 ubiquitin-protein ligase UHRF1-like [Spodoptera litura],+18070406:18080803,3.5e-56
+367,CENP-C_C,PF11699.11,Mif2/CENP-C like,,,,
+368,DMAP1,PF05499.15,DNA methyltransferase 1-associated protein 1 (DMAP1),XP_022814929.1,DNA methyltransferase 1-associated protein 1 [Spodoptera litura],+4435776:4440495,1e-71
+369,Kelch_5,PF13854.9,Kelch motif,XP_022820359.1,LOW QUALITY PROTEIN: multiple epidermal growth factor-like domains protein 8 [Spodoptera litura],-6999551:7012907,9.2e-46
+370,TPR_17,PF13431.9,Tetratricopeptide repeat,XP_022827761.1,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit isoform X1 [Spodopte,+5413375:5426881,3.5e-63
+371,RBM1CTR,PF08081.14,RBM1CTR (NUC064) family,,,,
+372,BRCA-2_OB1,PF09103.13,"BRCA2, oligonucleotide/oligosaccharide-binding, domain 1",XP_022823991.1,breast cancer type 2 susceptibility protein homolog [Spodoptera litura],-565644:577653,5.9e-38
+373,S1,PF00575.26,S1 RNA binding domain,XP_022818413.1,eukaryotic translation initiation factor 2 subunit 1 [Spodoptera litura],-5066739:5070789,3e-18
+374,TP2,PF01254.21,Nuclear transition protein 2,,,,
+375,dsrm,PF00035.29,Double-stranded RNA binding motif,XP_022821766.1,double-stranded RNA-binding protein Staufen homolog 2 [Spodoptera litura],-4323932:4334040,1.6e-31
+376,EIN3,PF04873.16,Ethylene insensitive 3,,,,
+377,TruB_N,PF01509.21,TruB family pseudouridylate synthase (N terminal domain),XP_022818929.1,H/ACA ribonucleoprotein complex subunit 4 [Spodoptera litura],+4684870:4689938,5.4e-22
+378,WSD,PF15613.9,"Williams-Beuren syndrome DDT (WSD), D-TOX E motif",XP_022817590.1,bromodomain adjacent to zinc finger domain protein 1A isoform X1 [Spodoptera litura],+11589556:11610170,1.5e-14
+379,SSXRD,PF09514.13,SSXRD motif,,,,
+380,JmjC,PF02373.25,"JmjC domain, hydroxylase",XP_022837084.1,lysine-specific demethylase lid [Spodoptera litura],-10074875:10102734,6.5e-45
+381,MRG,PF05712.16,MRG,XP_022824513.1,mortality factor 4-like protein 1 [Spodoptera litura],-10135017:10139347,7.1e-47
+382,Helicase_RecD,PF05127.17,Helicase,XP_022823654.1,RNA cytidine acetyltransferase [Spodoptera litura],+3033737:3046294,4.1e-56
+383,Radical_SAM,PF04055.24,Radical SAM superfamily,XP_022823302.1,CDK5 regulatory subunit-associated protein 1 [Spodoptera litura],-12623286:12626970,4.3e-31
+384,IKKbetaNEMObind,PF12179.11,I-kappa-kinase-beta NEMO binding domain,,,,
+385,HARP,PF07443.16,HepA-related protein (HARP),XP_022822722.1,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A-like protein 1 [,-2281088:2291856,1.5e-20
+386,BRCA2,PF00634.21,BRCA2 repeat,XP_022823991.1,breast cancer type 2 susceptibility protein homolog [Spodoptera litura],-565644:577653,4.8e-117
+387,NAD_binding_11,PF14833.9,NAD-binding of NADP-dependent 3-hydroxyisobutyrate dehydrogenase,XP_022831230.1,"probable 3-hydroxyisobutyrate dehydrogenase, mitochondrial [Spodoptera litura]",-2265778:2279396,3.2e-35
+388,HTH_Tnp_Tc5,PF03221.19,Tc5 transposase DNA-binding domain,XP_022823926.1,tigger transposable element-derived protein 4-like [Spodoptera litura],-5017031:5018569,2.2e-17
+389,Mago_nashi,PF02792.17,Mago nashi protein,XP_022822174.1,protein mago nashi homolog [Spodoptera litura],-10225718:10226590,1.7e-75
+390,2-Hacid_dh,PF00389.33,"D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain",XP_022832391.1,D-3-phosphoglycerate dehydrogenase [Spodoptera litura],-11862904:11868008,5.4e-33
+391,DRY_EERY,PF09750.12,Alternative splicing regulator,XP_022826663.1,CLK4-associating serine/arginine rich protein isoform X2 [Spodoptera litura],-5368953:5374459,1.2e-39
+392,PLU-1,PF08429.14,PLU-1-like protein,XP_022837084.1,lysine-specific demethylase lid [Spodoptera litura],-10074875:10102734,8.4e-72
+393,HnRNP_M_NLS,PF11532.11,HnRNP M nuclear localisation signal,,,,
+394,Pkinase,PF00069.28,Protein kinase domain,XP_022827882.1,ribosomal protein S6 kinase 2 beta isoform X2 [Spodoptera litura],-3917641:3927110,3.1e-135
+395,Arrestin_C,PF02752.25,"Arrestin (or S-antigen), C-terminal domain",XP_022822311.1,beta-arrestin-1-like isoform X1 [Spodoptera litura],-3395659:3424422,5.7e-31
+396,CAF1A,PF12253.11,Chromatin assembly factor 1 subunit A,XP_022824590.1,chromatin assembly factor 1 subunit A-like [Spodoptera litura],+4126685:4131569,8.2e-25
+397,DUF4208,PF13907.9,Domain of unknown function (DUF4208),XP_022822377.1,chromodomain-helicase-DNA-binding protein 1 isoform X3 [Spodoptera litura],+9180999:9193285,2.1e-23
+398,PGC7_Stella,PF15549.9,PGC7/Stella/Dppa3 domain,XP_022816552.1,zinc finger and BTB domain-containing protein 17-like isoform X1 [Spodoptera litura],-2421042:2427746,0.007
+399,RBB1NT,PF08169.14,RBB1NT (NUC162) domain,XP_022817965.1,AT-rich interactive domain-containing protein 4A-like [Spodoptera litura],+7879468:7895966,5.7e-18
+400,DNA_gyraseB,PF00204.28,DNA gyrase B,XP_022829849.1,DNA topoisomerase 2 [Spodoptera litura],+2204915:2218273,3.7e-26
+401,PCNA_N,PF00705.21,"Proliferating cell nuclear antigen, N-terminal domain",XP_022816711.1,proliferating cell nuclear antigen [Spodoptera litura],+2414911:2417529,9e-60
+402,RAG2,PF03089.17,Recombination activating protein 2,XP_022832046.1,leucine-zipper-like transcriptional regulator 1 [Spodoptera litura],+2318272:2331052,0.0032
+403,MutS_I,PF01624.23,MutS domain I,XP_022815619.1,probable DNA mismatch repair protein Msh6 isoform X2 [Spodoptera litura],+7072293:7089532,4.3e-30
+404,LIM,PF00412.25,LIM domain,XP_022816696.1,four and a half LIM domains protein 3 isoform X3 [Spodoptera litura],+13051162:13249009,4.7e-69
+405,Hira,PF07569.14,TUP1-like enhancer of split,XP_022819941.1,protein HIRA homolog [Spodoptera litura],+13038630:13055673,7.8e-28
+406,TPR_2,PF07719.20,Tetratricopeptide repeat,XP_022827761.1,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit isoform X1 [Spodopte,+5413375:5426881,7.6e-69
+407,Actin,PF00022.22,Actin,XP_022831151.1,"actin, cytoplasmic A3a [Spodoptera litura]",-11254907:11256124,9.7e-151
+408,RRM_1,PF00076.25,"RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)",XP_022821498.1,polyadenylate-binding protein 1-A [Spodoptera litura],-8231773:8235052,7.1e-84
+409,NSRP1_N,PF09745.12,"Nuclear speckle splicing regulatory protein 1, N-terminal",XP_022821888.1,nuclear speckle splicing regulatory protein 1 isoform X3 [Spodoptera litura],-8121402:8123044,1.2e-36
+410,PCNA_C,PF02747.18,"Proliferating cell nuclear antigen, C-terminal domain",XP_022816711.1,proliferating cell nuclear antigen [Spodoptera litura],+2414911:2417529,7.1e-62
+411,zf-C4,PF00105.21,"Zinc finger, C4 type (two domains)",XP_022832649.1,ecdysone-induced protein 78C-like isoform X3 [Spodoptera litura],-18292307:18371730,2.9e-32
+412,MutS_III,PF05192.21,MutS domain III,XP_022828232.1,DNA mismatch repair protein Msh2 [Spodoptera litura],-6437911:6458525,3e-35
+413,SANTA,PF09133.13,SANTA (SANT Associated),,,,
+414,Hormone_recep,PF00104.33,Ligand-binding domain of nuclear hormone receptor,XP_022837448.1,transcription factor HNF-4 homolog isoform X4 [Spodoptera litura],-4951172:4985251,1.2e-41
+415,Recep_L_domain,PF01030.27,Receptor L domain,XP_022833121.1,epidermal growth factor receptor isoform X2 [Spodoptera litura],+6201802:6327361,1.4e-49
+416,zf-RING_6,PF14835.9,zf-RING of BARD1-type protein,XP_022816618.1,E3 ubiquitin-protein ligase NRDP1 [Spodoptera litura],-4057762:4061159,0.00018
+417,PAH,PF02671.24,Paired amphipathic helix repeat,XP_022816807.1,paired amphipathic helix protein Sin3b [Spodoptera litura],-1167277:1203498,5.1e-43
+418,RB_A,PF01858.20,Retinoblastoma-associated protein A domain,XP_022826148.1,retinoblastoma-like protein 1 [Spodoptera litura],-4884539:4893162,1.2e-55
+419,HMG14_17,PF01101.21,HMG14 and HMG17,,,,
+420,SLIDE,PF09111.13,SLIDE,XP_022829096.1,chromatin-remodeling complex ATPase chain Iswi isoform X2 [Spodoptera litura],+6585684:6590703,1.2e-43
+421,PAZ,PF02170.25,PAZ domain,XP_022814820.1,piwi-like protein Siwi isoform X2 [Spodoptera litura],-9133608:9144267,1e-32
+422,F-box,PF00646.36,F-box domain,XP_022827287.1,F-box/LRR-repeat protein 2 isoform X3 [Spodoptera litura],+8632011:8637151,1.5e-10
+423,FACT-Spt16_Nlob,PF14826.9,FACT complex subunit SPT16 N-terminal lobe domain,XP_022819729.1,FACT complex subunit spt16 isoform X2 [Spodoptera litura],+2563950:2573412,5.8e-52
+424,C1_1,PF00130.25,Phorbol esters/diacylglycerol binding domain (C1 domain),XP_022817819.1,protein kinase C isoform X4 [Spodoptera litura],-12922927:12934267,1.5e-33
+425,Mst1_SARAH,PF11629.11,C terminal SARAH domain of Mst1,XP_022821260.1,serine/threonine-protein kinase 3 isoform X4 [Spodoptera litura],-1023151:1044515,1.5e-21
+426,DUF913,PF06025.15,Domain of Unknown Function (DUF913),,,,
+427,bZIP_1,PF00170.24,bZIP transcription factor,XP_022820109.1,cyclic AMP response element-binding protein B isoform X5 [Spodoptera litura],+7600326:7605288,2e-18
+428,TFIID-18kDa,PF02269.19,"Transcription initiation factor IID, 18kD subunit",XP_022825586.1,transcription initiation factor TFIID subunit 13 isoform X2 [Spodoptera litura],-4156193:4159776,2.7e-35
+429,Glyco_transf_41,PF13844.9,Glycosyl transferase family 41,XP_022827762.1,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit isoform X2 [Spodopte,+5422818:5426881,1.9e-303
+430,UCH,PF00443.32,Ubiquitin carboxyl-terminal hydrolase,XP_022824102.1,ubiquitin carboxyl-terminal hydrolase 37-like [Spodoptera litura],-261431:296798,3.1e-76
+431,MBD,PF01429.22,Methyl-CpG binding domain,XP_022824721.1,methyl-CpG-binding domain protein 3 isoform X1 [Spodoptera litura],-7726743:7729683,2.1e-32
+432,DUF3776,PF12618.11,Protein of unknown function (DUF3776),,,,
+433,TPR_1,PF00515.31,Tetratricopeptide repeat,XP_022827761.1,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit isoform X1 [Spodopte,+5413375:5426881,8e-88
+434,Helicase_C,PF00271.34,Helicase conserved C-terminal domain,XP_022826389.1,probable ATP-dependent RNA helicase pitchoune [Spodoptera litura],-7132985:7146666,1.3e-50
+435,HTH_44,PF14641.9,Helix-turn-helix DNA-binding domain of SPT6,XP_022837855.1,transcription elongation factor SPT6 [Spodoptera litura],-3161057:3177001,2.7e-22
+436,GF_recep_IV,PF14843.9,Growth factor receptor domain IV,XP_022833121.1,epidermal growth factor receptor isoform X2 [Spodoptera litura],+6201802:6327361,2.2e-40
+437,SOCS_box,PF07525.19,SOCS box,XP_022835033.1,"suppressor of cytokine signaling 4-like, partial [Spodoptera litura]",-91146:91805,4.4e-10
+438,TSP_1,PF00090.22,Thrombospondin type 1 domain,XP_022837459.1,ADAMTS-like protein 1 isoform X5 [Spodoptera litura],-10295885:10483544,2.6e-32
+439,PABP,PF00658.21,"Poly-adenylate binding protein, unique domain",XP_022821498.1,polyadenylate-binding protein 1-A [Spodoptera litura],-8231773:8235052,8.2e-30
+440,YqgF,PF14639.9,Holliday-junction resolvase-like of SPT6,XP_022837855.1,transcription elongation factor SPT6 [Spodoptera litura],-3161057:3177001,5.8e-34
+441,Creb_binding,PF09030.13,Creb binding,XP_022829259.1,LOW QUALITY PROTEIN: CREB-binding protein-like [Spodoptera litura],+2709055:2729162,3.2e-17
+442,NAP,PF00956.21,Nucleosome assembly protein (NAP),XP_022823817.1,nucleosome assembly protein 1-like 1 isoform X2 [Spodoptera litura],+6970126:6978186,1.4e-101
+443,PEHE,PF15275.9,PEHE domain,XP_022832500.1,mucin-3B-like isoform X2 [Spodoptera litura],-10870946:10880967,1e-18
+444,Fox-1_C,PF12414.11,Calcitonin gene-related peptide regulator C terminal,,,,
+445,TFIIIC_delta,PF12657.10,Transcription factor IIIC subunit delta N-term,,,,
+446,zf-met,PF12874.10,Zinc-finger of C2H2 type,XP_022823976.1,zinc finger protein OZF-like isoform X3 [Spodoptera litura],-7041028:7060382,7.4e-24
+447,Cir_N,PF10197.12,N-terminal domain of CBF1 interacting co-repressor CIR,XP_022820441.1,pre-mRNA-splicing factor CWC25 homolog [Spodoptera litura],-9581042:9583144,3.6e-15
+448,RING_CBP-p300,PF06001.16,"CREB-binding protein/p300, atypical RING domain",XP_022829259.1,LOW QUALITY PROTEIN: CREB-binding protein-like [Spodoptera litura],+2709055:2729162,1.4e-23
+449,ING,PF12998.10,Inhibitor of growth proteins N-terminal histone-binding,XP_022823029.1,inhibitor of growth protein 5 [Spodoptera litura],+10211294:10212118,6.1e-29
+450,Acetyltransf_7,PF13508.10,Acetyltransferase (GNAT) domain,XP_022826697.1,N-alpha-acetyltransferase 30-like [Spodoptera litura],-6255018:6256036,2.2e-12
+451,TAN,PF11640.11,Telomere-length maintenance and DNA damage repair,XP_022823412.1,protein mini spindles [Spodoptera litura],+7429054:7457134,1.7e-07
+452,DND1_DSRM,PF14709.10,double strand RNA binding domain from DEAD END PROTEIN 1,XP_022827920.1,protein SON-like isoform X1 [Spodoptera litura],-9873681:9888907,4.2e-14
+453,SRRM_C,PF15230.9,Serine/arginine repetitive matrix protein C-terminus,,,,
+454,EPL1,PF10513.12,Enhancer of polycomb-like,XP_022831612.1,bromodomain-containing protein 1 [Spodoptera litura],+8908085:8924712,5.9e-22
+455,CAF1C_H4-bd,PF12265.11,Histone-binding protein RBBP4 or subunit C of CAF1 complex,XP_022822545.1,probable histone-binding protein Caf1 isoform X2 [Spodoptera litura],+7817905:7822918,4.7e-29
+456,SSrecog,PF03531.17,Structure-specific recognition protein (SSRP1),XP_022813825.1,FACT complex subunit Ssrp1 [Spodoptera litura],+3254655:3266143,1.3e-28
+457,Ank,PF00023.33,Ankyrin repeat,XP_022837057.1,ankyrin-3-like isoform X8 [Spodoptera litura],+3689420:3734717,1.2e-135
+458,P53_tetramer,PF07710.14,P53 tetramerisation motif,,,,
+459,EZH2_WD-Binding,PF11616.11,WD repeat binding protein EZH2,,,,
+460,UDG,PF03167.22,Uracil DNA glycosylase superfamily,XP_022837135.1,trithorax group protein osa isoform X3 [Spodoptera litura],+9862295:9885348,1.3e-20
+461,SAP30_Sin3_bdg,PF13867.9,Sin3 binding region of histone deacetylase complex subunit SAP30,XP_022828913.1,histone deacetylase complex subunit SAP30 homolog [Spodoptera litura],+10813543:10814320,1.2e-24
+462,ClpS,PF02617.20,ATP-dependent Clp protease adaptor protein ClpS,XP_022823527.1,E3 ubiquitin-protein ligase UBR1 isoform X3 [Spodoptera litura],-9450316:9496145,6.4e-20
+463,RAG1,PF12940.10,"Recombination-activation protein 1 (RAG1), recombinase",XP_022828240.1,uncharacterized protein LOC111357680 isoform X1 [Spodoptera litura],-6295291:6297256,9e-08
+464,HAND,PF09110.14,HAND,XP_022829096.1,chromatin-remodeling complex ATPase chain Iswi isoform X2 [Spodoptera litura],+6585684:6590703,2.5e-29
+465,PP4R3,PF04802.18,Phosphatase 4 regulatory subunit 3,XP_022818133.1,serine/threonine-protein phosphatase 4 regulatory subunit 3 isoform X2 [Spodoptera litura],+6492843:6500173,2.9e-77
+466,IQ,PF00612.30,IQ calmodulin-binding motif,XP_022830554.1,protein abnormal spindle [Spodoptera litura],-9630831:9640644,4.7e-34
+467,MutS_II,PF05188.20,MutS domain II,XP_022837732.1,mutS protein homolog 4-like isoform X3 [Spodoptera litura],-2833687:2843545,1e-10
+468,HJURP_mid,PF12346.11,Holliday junction recognition protein-associated repeat,,,,
+469,SPT6_acidic,PF14632.9,Acidic N-terminal SPT6,XP_022837855.1,transcription elongation factor SPT6 [Spodoptera litura],-3161057:3177001,1.2e-14
+470,Mis14,PF08641.15,Kinetochore protein Mis14 like,,,,
+471,GNAT_acetyltr_2,PF13718.9,GNAT acetyltransferase 2,XP_022823654.1,RNA cytidine acetyltransferase [Spodoptera litura],+3033737:3046294,2.5e-94
+472,zf-C3HC4,PF00097.28,"Zinc finger, C3HC4 type (RING finger)",XP_022829559.1,TNF receptor-associated factor 6 [Spodoptera litura],-2787479:2791628,1e-10
+473,Methyltransf_18,PF12847.10,Methyltransferase domain,XP_022817537.1,protein arginine N-methyltransferase 1 [Spodoptera litura],-1695480:1701034,0.00072
+474,EGF,PF00008.30,EGF-like domain,XP_022819207.1,neurogenic locus Notch protein isoform X4 [Spodoptera litura],-926918:1075946,2.1e-224
+475,BRCA-2_OB3,PF09104.13,"BRCA2, oligonucleotide/oligosaccharide-binding, domain 3",XP_022835415.1,uncharacterized protein LOC111362885 [Spodoptera litura],-36760:41506,2.2e-22
+476,DNA_topoisoIV,PF00521.23,"DNA gyrase/topoisomerase IV, subunit A",XP_022829849.1,DNA topoisomerase 2 [Spodoptera litura],+2204915:2218273,5.4e-131
+477,Slu7,PF11708.11,Pre-mRNA splicing Prp18-interacting factor,XP_022828174.1,pre-mRNA-splicing factor Slu7 [Spodoptera litura],+12966486:12971663,5.9e-102
+478,Homez,PF11569.11,"Homeodomain leucine-zipper encoding, Homez",XP_022827629.1,T-cell leukemia homeobox protein 2 [Spodoptera litura],+5876074:5916130,0.0097
+479,WAC_Acf1_DNA_bd,PF10537.12,ATP-utilising chromatin assembly and remodelling N-terminal,XP_022817591.1,bromodomain adjacent to zinc finger domain protein 1A isoform X2 [Spodoptera litura],+11589556:11610170,1.6e-30
+480,HAT_KAT11,PF08214.14,Histone acetylation protein,XP_022829259.1,LOW QUALITY PROTEIN: CREB-binding protein-like [Spodoptera litura],+2709055:2729162,5.2e-74
+481,Forkhead_N,PF08430.15,Forkhead N-terminal region,XP_022817886.1,silk gland factor 1 [Spodoptera litura],-4669879:4670940,9.2e-13
+482,MATH,PF00917.29,MATH domain,XP_022831286.1,ubiquitin carboxyl-terminal hydrolase 7-like isoform X10 [Spodoptera litura],+9046793:9062341,1.3e-17
+483,UQ_con,PF00179.29,Ubiquitin-conjugating enzyme,XP_022815280.1,ubiquitin-conjugating enzyme E2-17 kDa [Spodoptera litura],-5957069:5958566,6.3e-54
+484,MutS_IV,PF05190.21,MutS family domain IV,XP_022828232.1,DNA mismatch repair protein Msh2 [Spodoptera litura],-6437911:6458525,1.2e-16
+485,RAMA,PF18755.4,Restriction Enzyme Adenine Methylase Associated,XP_022821186.1,MPN domain-containing protein CG4751 [Spodoptera litura],-7485635:7490068,1.7e-33
+486,Methyltransf_10,PF05971.15,RNA methyltransferase,XP_022837993.1,U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase isoform X1 [Spodoptera litura],+3415933:3419960,6.6e-79
+487,PTCB-BRCT,PF12738.10,twin BRCT domain,XP_022831508.1,PAX-interacting protein 1-like isoform X2 [Spodoptera litura],+3756672:3775987,8.9e-41
+488,Sam68-YY,PF16568.8,Tyrosine-rich domain of Sam68,,,,
+489,FATC,PF02260.23,FATC domain,XP_022822570.1,target of rapamycin-like [Spodoptera litura],+3729799:3740613,3.3e-17
+490,Methyltransf_8,PF05148.18,Hypothetical methyltransferase,XP_022829353.1,ribosomal RNA-processing protein 8 [Spodoptera litura],+1541913:1544289,8.2e-84
+491,DUF1087,PF06465.16,"CHD subfamily II, DUF1087",XP_022820130.1,chromodomain-helicase-DNA-binding protein Mi-2 homolog isoform X3 [Spodoptera litura],+3214100:3229730,2.2e-26
+492,YTH,PF04146.18,YT521-B-like domain,XP_022818631.1,YTH domain-containing family protein 1 isoform X4 [Spodoptera litura],+10971439:10977391,4.7e-44
+493,SLED,PF12140.11,SLED domain,XP_022821841.1,scm-like with four MBT domains protein 2 [Spodoptera litura],+14676917:14688501,5e-29
+494,zf-C3HC4_2,PF13923.9,"Zinc finger, C3HC4 type (RING finger)",XP_022831232.1,E3 ubiquitin-protein ligase RING1 [Spodoptera litura],+2967631:2969997,7.3e-16
+495,zf-SAP30,PF13866.9,SAP30 zinc-finger,XP_022828913.1,histone deacetylase complex subunit SAP30 homolog [Spodoptera litura],+10813543:10814320,6.4e-39
+496,zf-TFIIIC,PF12660.10,Putative zinc-finger of transcription factor IIIC complex,,,,
+497,Scm3,PF10384.12,Centromere protein Scm3,,,,
+498,CUT,PF02376.18,CUT domain,XP_022831627.1,homeobox protein cut isoform X6 [Spodoptera litura],+12740461:12832010,4.7e-82
+499,T-box,PF00907.25,T-box,XP_022831910.1,T-box transcription factor TBX3 isoform X7 [Spodoptera litura],-2573776:2682133,3.2e-83
+500,Elong_Iki1,PF10483.12,Elongator subunit Iki1,XP_022831386.1,elongator complex protein 5 [Spodoptera litura],-10972644:10973399,5.6e-13
+501,RB_B,PF01857.23,Retinoblastoma-associated protein B domain,XP_022826148.1,retinoblastoma-like protein 1 [Spodoptera litura],-4884539:4893162,4.3e-47
+502,NuA4,PF09340.13,Histone acetyltransferase subunit NuA4,XP_022816462.1,chromatin modification-related protein MEAF6 [Spodoptera litura],+9992158:9993373,8.4e-27
+503,OST-HTH,PF12872.10,OST-HTH/LOTUS domain,XP_022831011.1,meiosis regulator and mRNA stability factor 1 [Spodoptera litura],-7959207:7980615,1.8e-23
+504,Exo_endo_phos,PF03372.26,Endonuclease/Exonuclease/phosphatase family,XP_022826216.1,CCR4-NOT transcription complex subunit 6 [Spodoptera litura],+11563481:11690075,9.3e-25
+505,PID,PF00640.26,Phosphotyrosine interaction domain (PTB/PID),XP_022821372.1,uncharacterized protein LOC111352905 isoform X5 [Spodoptera litura],-1897506:1928280,5.4e-44
+506,UBN_AB,PF14075.9,Ubinuclein conserved middle domain,XP_022823570.1,yemanuclein-like isoform X5 [Spodoptera litura],-1171402:1190732,1.1e-07
+507,P53,PF00870.21,P53 DNA-binding domain,XP_022831630.1,cellular tumor antigen p53-like [Spodoptera litura],-11555168:11562378,5.6e-54
+508,SH3_9,PF14604.9,Variant SH3 domain,XP_022830406.1,intersectin-2 [Spodoptera litura],-1117104:1150435,1.1e-50
+509,HHH_7,PF14635.9,Helix-hairpin-helix motif,XP_022837855.1,transcription elongation factor SPT6 [Spodoptera litura],-3161057:3177001,4.9e-36
